@@ -20,7 +20,7 @@ public class SimpleWindow extends JFrame {
         TextToAudioR100 textToAudioR100 = new TextToAudioR100();
         TextToAudioRadasteid textToAudioRadasteid = new TextToAudioRadasteid();
         TextToAudioRozuzOpori textToAudioRozuzOpori = new TextToAudioRozuzOpori();
-        TextToAudioLichniAlfavit textToAudioLichniAlfavit = new TextToAudioLichniAlfavit();
+
 
         JTextArea textArea = new JTextArea(30, 30);
 
