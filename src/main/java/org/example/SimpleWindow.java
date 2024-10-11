@@ -34,7 +34,7 @@ public class SimpleWindow extends JFrame {
         JCheckBox radasteid100 = new JCheckBox("Радастеид - 100", false);
         JCheckBox radasteid = new JCheckBox("Радастеид", false);
         JCheckBox rozuzOpori = new JCheckBox("Розуз-опоры", false);
-        JCheckBox lichChiclo = new JCheckBox("Личный-Циклохладавит", false);
+
 
 
 
@@ -45,7 +45,7 @@ public class SimpleWindow extends JFrame {
         panel.add(textArea);
         panel.add(click);
 
-        panel.add(lichChiclo);
+
         panel.add(o_hladovit);
         panel.add(ciklo);
         panel.add(nomernoi);
