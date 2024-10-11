@@ -86,9 +86,6 @@ public class SimpleWindow extends JFrame {
                     throw new RuntimeException(ex);
                 }
                 try {
-                    if (lichChiclo.isSelected()) {
-                        textToAudioLichniAlfavit.textToAudioLichniAlfavit(text);
-                    }
                     if (o_hladovit.isSelected()) {
                         textToAudioOporiHladovit.textToAudioOporiHladovit(text);
                     }
